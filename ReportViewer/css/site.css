@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+header, footer {
+    background-color: #212121;
+    background-blend-mode: difference;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+main {
+    display: flex;
+    flex: 1;
+}
+#menu {
+    width: 40%;
+    background-color: #f4f4f4;
+    padding-top: 40px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 8px;
+   
+   
+}
+#menu a {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+}
+#menu a:hover {
+    background-color: #eee;
+}
+#content {
+    flex: 1;
+    padding-left: 10px;
+}
+#data-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+th {
+    cursor: pointer;  /* Change cursor to pointer on hover */
+}
+
+.modalcenter {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
