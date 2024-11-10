@@ -1,6 +1,6 @@
 # ReportViewer
 
-A simple local server is needed to run the project .
+A simple local server is needed to run the project.
 
 I used the following :
 
