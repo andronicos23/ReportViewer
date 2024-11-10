@@ -1,2 +1,2 @@
 # ReportViewer
-under ReportViewer Folder , open Index.html to any browser
+Visual Studio code , use Live Server v5.7.9
