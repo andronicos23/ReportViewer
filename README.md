@@ -12,6 +12,8 @@ Installed package in Visual Studio code ,  Live Server v5.7.9
 
 A Restart of VS Code will be needed.Once installed press Go LIVE on bottom right corner
 
+http://127.0.0.1:5500/ReportViewer/index.html
+
 
 ![image](https://github.com/user-attachments/assets/9775b288-0afc-4cf2-a10d-c27b1977cdb7)
 
